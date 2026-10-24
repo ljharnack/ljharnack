@@ -5,7 +5,7 @@
 <!-- Animated typing header. Edit the lines after "lines=" (separate lines with ;, spaces with +) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Lindsey+%F0%9F%91%8B;CSM,+Strategic+Enterprise;DevSecOps+@+Apiiro;Thanks+for+stopping+by!" alt="Typing intro" />
 
-<!-- Optional: add a banner or GIF here. Drop an image in /assets and point to it, e.g. assets/banner.png -->
+<!-- Drop an image in /assets and point to it, e.g. assets/banner.png -->
 <!-- <img src="assets/banner.png" width="100%" alt="banner" /> -->
 
 <a href="https://www.linkedin.com/in/lindseyharnack123/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -31,8 +31,7 @@
 
 ## 🎨 When I'm Not Coding
 
-<!-- Swap the emojis/text for your hobbies. Want photos instead? Put images in /assets
-     and replace an emoji with: <img src="assets/hobby1.jpg" width="120" /> -->
+<!-- Put images in /assets and replace an emoji with: <img src="assets/hobby1.jpg" width="120" /> -->
 <div align="center">
 <table>
   <tr>
@@ -64,19 +63,19 @@
 
 **Languages**
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css&perline=10" alt="Languages" />
 </p>
 
 **Frameworks & Databases**
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flask,sqlite,mysql&perline=10" alt="Frameworks and databases" />
 </p>
 
 **Tools & Platforms**
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify&perline=10" alt="Tools and platforms" />
 </p>
 
@@ -84,13 +83,9 @@
 
 ## 🚀 Featured Projects
 
-<!-- Show off 2-4 repos. The cards below pull each repo's name, description, and language automatically. -->
 <div align="center">
   <a href="https://github.com/ljharnack/rethread">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ljharnack&repo=rethread&theme=tokyonight&hide_border=true" alt="ReThread" />
-  </a>
-  <a href="https://github.com/ljharnack/[another-repo]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ljharnack&repo=[another-repo]&theme=tokyonight&hide_border=true" alt="[another-repo]" />
   </a>
 </div>
 
@@ -114,8 +109,7 @@
 
 ---
 
-<!-- 🐍 Snake eating your contribution grid. Generated daily by .github/workflows/snake.yml.
-     It'll show a broken image until that workflow runs once (Actions tab → "Generate snake" → Run workflow). -->
+<!-- 🐍 Snake eating your contribution grid. Generated daily by .github/workflows/snake.yml. -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ljharnack/ljharnack/output/github-snake-dark.svg" />
@@ -124,5 +118,5 @@
 </div>
 
 <div align="center">
-  <sub>[A closing line, e.g. "Thanks for visiting! ✨"]</sub>
+  <sub>Thanks for visiting! ✨</sub>
 </div>
