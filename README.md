@@ -1,11 +1,4 @@
 <!--
-  ✏️ HOW TO USE THIS TEMPLATE
-  - Anything in [SQUARE BRACKETS] is a placeholder: swap in your own words.
-  - HTML comments like this one don't show up on GitHub, so leave them or delete them.
-  - All the stats/graph images pull live data for the username "ljharnack".
-    If your username ever changes, find-and-replace "ljharnack" in this file.
-  - To see it on your profile, this file has to live in a PUBLIC repo named exactly "ljharnack".
--->
 
 <div align="center">
 
@@ -28,11 +21,11 @@
 
 [A couple of casual sentences about who you are. Where you're based, what you do for work, and what got you into coding. Keep it chill, this isn't LinkedIn 😄]
 
-- 💼 By day I'm a **[job title]** at **[company / industry]**, where I [what you actually do, in plain English]
-- 🌱 Currently learning **[thing you're learning]**
-- 🛠️ Tinkering on **[a side project, e.g. ReThread, a secondhand clothing marketplace]**
-- 💬 Ask me about **[a topic you could talk about for hours]**
-- ⚡ Fun fact: **[something random about you]**
+- 💼 By day I'm a **Customer Success Manager** at **Apiiro**, where I help strategic enterprise customers secure their application security posture and agentic code fast, while minimizing additional risk, and ensure product value. 
+- 🌱 Currently learning **how to play golf (poorly)**
+- 🛠️ Tinkering on **my GitHub and building projects in more languages**
+- 💬 Ask me about **Shania Twian's rise and fall in pop culture**
+- ⚡ Fun fact: **I play left-handed guitar**
 
 ---
 
