@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated typing header. Edit the lines after "lines=" (separate lines with ;, spaces with +) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Lindsey+%F0%9F%91%8B;Customer+Success+Manager,+Strategic+Enterprise; DevSecOps;Thanks+for+stopping+by!" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Lindsey+%F0%9F%91%8B;Customer+Success+Manager,+Strategic+Enterprise;DevSecOps;Thanks+for+stopping+by!" alt="Typing intro" />
 
 <!-- Optional: add a banner or GIF here. Drop an image in /assets and point to it, e.g. assets/banner.png -->
 <!-- <img src="assets/banner.png" width="100%" alt="banner" /> -->
