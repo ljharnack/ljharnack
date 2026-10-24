@@ -48,7 +48,7 @@
     </td>
     <td align="center" width="25%">
       <h1>🎧</h1>
-      <b>[Live music</b><br/>
+      <b>Live music</b><br/>
       <sub>Currently tracking my upcoming concert list.</sub>
     </td>
   </tr>
