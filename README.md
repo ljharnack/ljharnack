@@ -85,7 +85,7 @@
 
 <div align="center">
   <a href="https://github.com/ljharnack/rethread">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ljharnack&repo=rethread&theme=tokyonight&hide_border=true" alt="ReThread" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ljharnack&repo=rethread&theme=tokyonight&hide_border=true&v=2" alt="ReThread" />
   </a>
 </div>
 
