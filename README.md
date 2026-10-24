@@ -3,15 +3,17 @@
 <div align="center">
 
 <!-- Animated typing header. Edit the lines after "lines=" (separate lines with ;, spaces with +) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Lindsey+%F0%9F%91%8B;CSM,+Strategic+Enterprise;DevSecOps+at+Apiiro;Thanks+for+stopping+by!" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Lindsey+%F0%9F%91%8B;CSM,+Strategic+Enterprise;DevSecOps+@+Apiiro;Thanks+for+stopping+by!" alt="Typing intro" />
 
 <!-- Optional: add a banner or GIF here. Drop an image in /assets and point to it, e.g. assets/banner.png -->
 <!-- <img src="assets/banner.png" width="100%" alt="banner" /> -->
 
-<a href="https://www.linkedin.com/in/[your-linkedin-handle]/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/lindseyharnack123/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ljharnack1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <!-- Add more if you want: Instagram, Spotify, personal site, etc. -->
+<!--  
 <img src="https://komarev.com/ghpvc/?username=ljharnack&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+/> -->
 
 </div>
 
@@ -36,23 +38,18 @@
   <tr>
     <td align="center" width="25%">
       <h1>🥾</h1>
-      <b>[Hobby 1]</b><br/>
-      <sub>[a short line about it]</sub>
+      <b>Hiking</b><br/>
+      <sub>Exploring the world one AllTrails hike at a time.</sub>
     </td>
     <td align="center" width="25%">
       <h1>📚</h1>
-      <b>[Hobby 2]</b><br/>
-      <sub>[currently reading...]</sub>
-    </td>
-    <td align="center" width="25%">
-      <h1>🍳</h1>
-      <b>[Hobby 3]</b><br/>
-      <sub>[a short line about it]</sub>
+      <b>Reading</b><br/>
+      <sub>Catch me reading something fantasy by the river on a sunny day.</sub>
     </td>
     <td align="center" width="25%">
       <h1>🎧</h1>
-      <b>[Hobby 4]</b><br/>
-      <sub>[on repeat lately: ...]</sub>
+      <b>[Live music</b><br/>
+      <sub>Currently tracking my upcoming concert list.</sub>
     </td>
   </tr>
 </table>
