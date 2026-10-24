@@ -63,19 +63,19 @@
 
 **Languages**
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css&perline=10" alt="Languages" />
 </p>
 
 **Frameworks & Databases**
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flask,sqlite,mysql&perline=10" alt="Frameworks and databases" />
 </p>
 
 **Tools & Platforms**
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify&perline=10" alt="Tools and platforms" />
 </p>
 
