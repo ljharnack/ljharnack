@@ -19,7 +19,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 💼 By day I'm a **Customer Success Manager** at **Apiiro**, where I help strategic enterprise customers secure their application security posture and agentic code fast, while minimizing additional risk, and ensure product value. 
+- 💼 By day, I'm a **Customer Success Manager** at **Apiiro**, where I help strategic enterprise customers secure their application security posture and agentic code fast, while minimizing additional risk, and drive product value. 
 - 🌱 Currently learning **how to play golf (poorly).**
 - 🛠️ Tinkering on **my GitHub and building projects in more languages.**
 - 💬 Ask me about **Shania Twian's rise and fall in pop culture.**
